@@ -13,10 +13,16 @@
 
 ### 1. 设计模式
 
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys6ch
+> 密码: 44xj
+
 1. JavaScript 设计模式 —— 张容铭
 2. JavaScript 设计模式与开发实践
 
 ### 2. 算法
+
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys6di
+> 密码: 2ryz
 
 1. 算法图解
 2. 经典算法大全
@@ -24,6 +30,9 @@
 4. 图灵设计丛书 算法（第4版）
 
 ### 3. JavaScript
+
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys67c
+> 密码: 5k6m
 
 1. Head First JavaScript程序设计.pdf
 2. JavaScript Promise迷你书(中文版).pdf
@@ -44,6 +53,9 @@
 
 ### 4. HTML & CSS
 
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys62h
+> 密码: ceux
+
 1. CSS世界 .pd
 2. CSS揭秘.pdf
 3. CSS权威指南.pdf
@@ -63,6 +75,9 @@
 
 ### 5. NodeJS
 
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys69e
+> 密码: 6r8p
+
 1. Node.js实战.pdf
 2. Node.js实战.第2版.pdf
 3. Node.js实战心得.pdf
@@ -75,12 +90,19 @@
 
 ### 6. HTTP
 
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys65a
+> 密码: bdj1
+
 1. HTTP 权威指南
 2. TCP-IP 协议详解 卷1
 3. 图解 HTTP（彩色版）
 4. 网络是怎么连接的
 
 ### 7. Vue & React
+
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys6bg
+> 密码: 17l6
+
 1. React Native入门与实战.pdf
 2. React Native应用开发实例解析.pdf
 3. React Native开发指南.pdf
@@ -92,10 +114,16 @@
 
 ### 8. 面试
 
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys6ej
+> 密码: 3bcs
+
 1. 80%应聘者都不及格的JS面试题
 2. 前端面试题汇总
 
 ### 9. 其他
+
+> 蓝奏云：https://miyuefe.lanzous.com/b01zys6fa
+> 密码: 93zq
 
 1. AngularJS权威教程.pdf
 2. C数据结构.pdf
