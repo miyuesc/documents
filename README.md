@@ -56,7 +56,7 @@
 > 蓝奏云：https://miyuefe.lanzous.com/b01zys62h
 > 密码: ceux
 
-1. CSS世界 .pd
+1. CSS世界.pdf
 2. CSS揭秘.pdf
 3. CSS权威指南.pdf
 4. CSS禅意花园.pdf
